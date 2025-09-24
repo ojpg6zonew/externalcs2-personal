@@ -42,6 +42,6 @@ The main goal of this project is to practice and improve **Windows API programmi
 
 ![Screenshot](assets/image.png)
 
-![Screenshot](assets/image.png)
+![Screenshot](assets/image2.png)
 
-![Screenshot](assets/image.png)
+![Screenshot](assets/image3.png)
