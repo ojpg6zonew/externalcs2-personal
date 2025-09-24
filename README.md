@@ -3,8 +3,6 @@
 An **external tool for Counter-Strike 2** that operates without writing directly to the game’s memory.  
 The main goal of this project is to practice and improve **Windows API programming skills**.  
 
-> 🔔 [Important note here.](https://github.com/sweeperxz/FullyExternalCS2/issues/6#issuecomment-1919053959)
-
 ⚠️ **If you received a VAC ban, please open an Issue using the dedicated template.**
 
 ---
