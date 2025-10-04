@@ -1,2 +1,3 @@
 # Planning
 Note sprint outcome
+Update status of tasks
