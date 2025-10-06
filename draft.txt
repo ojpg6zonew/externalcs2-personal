@@ -2,3 +2,4 @@
 Note sprint outcome
 Update status of tasks
 List domain records
+Note provider options
