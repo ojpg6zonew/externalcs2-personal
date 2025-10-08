@@ -4,3 +4,4 @@ Add more documentation notes
 Note winner list
 Record retention schedule
 Capture monitoring gaps
+Note reorder points
