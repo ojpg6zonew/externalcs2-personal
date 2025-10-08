@@ -10,3 +10,4 @@ Summarize litigation notes
 Summarize anonymization steps
 Record restore attempt
 Note funding options
+Summarize rollout success
