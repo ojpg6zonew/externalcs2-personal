@@ -4,3 +4,4 @@ Note encryption methods
 Update reproducibility logs
 Summarize testing report
 Capture monitoring gaps
+Summarize warehouse logs
