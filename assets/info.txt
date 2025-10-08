@@ -4,3 +4,4 @@ Capture moodboard items
 Note reorder points
 Note pipeline DAG
 Schedule maintenance window
+Record certificate renewals
