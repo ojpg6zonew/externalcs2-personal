@@ -1,2 +1,3 @@
 Note interest changes
 Note funding options
+Summarize regularization notes
