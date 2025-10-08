@@ -3,3 +3,4 @@ Summarize responsive fixes
 Review pod limits
 Review lessons learned
 Schedule maintenance window
+Draft partnership ideas
