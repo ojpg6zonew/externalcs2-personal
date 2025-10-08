@@ -2,3 +2,4 @@ Draft logistics plan
 Draft roadmap alignment
 Add more documentation notes
 Note winner list
+Record retention schedule
