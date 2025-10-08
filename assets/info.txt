@@ -1,3 +1,4 @@
 Draft feature proposal
 Record media queries
 Review financial risks
+Update session rules
