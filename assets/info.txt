@@ -11,3 +11,4 @@ Note interest changes
 Record expense items
 Draft support script
 Record competitor scans
+Summarize contingency plan
