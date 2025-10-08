@@ -6,3 +6,4 @@ Draft optimization notes
 Summarize trade risks
 Update board minutes
 Note cluster issues
+Plan outreach tasks
