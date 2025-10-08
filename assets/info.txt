@@ -1,16 +1,1 @@
-Draft feature proposal
-Record media queries
-Review financial risks
-Update session rules
-Record compliance status
-Record engagement stats
-Summarize war room chat
-Record prototype feedback
-Experiment with prototypes
-Note interest changes
-Record expense items
-Draft support script
-Record competitor scans
-Summarize contingency plan
-Update collaboration doc
-Record infra costs
+Draft blog outline
