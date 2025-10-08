@@ -1,1 +1,2 @@
 Record competitor scans
+Analyze customer data
