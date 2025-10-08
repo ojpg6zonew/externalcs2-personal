@@ -1,8 +1,1 @@
-Start new iteration of the project
-Summarize responsive fixes
-Review pod limits
-Review lessons learned
-Schedule maintenance window
-Draft partnership ideas
-List missing translations
-Update reproducibility logs
+Note interest changes
