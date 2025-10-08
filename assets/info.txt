@@ -1,1 +1,2 @@
 Start new iteration of the project
+Summarize responsive fixes
