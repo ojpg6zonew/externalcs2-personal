@@ -1,14 +1,1 @@
-Record competitor scans
-Analyze customer data
-Brainstorm feature ideas
-Summarize bug triage
-Review monitoring setup
-Update skill matrix
-Summarize permission gaps
-Summarize workshop notes
-Check TLS configuration
-Summarize candidate profiles
-Record competitor scans
-Check build artifacts
-List influencer mentions
-Draft canary rollout
+Note toggle plan
