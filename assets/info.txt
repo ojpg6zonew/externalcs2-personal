@@ -13,3 +13,4 @@ Summarize quota usage
 Update tracking board
 Log regression issues
 List known limitations
+Document hotfix steps
