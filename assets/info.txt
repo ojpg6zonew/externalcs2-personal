@@ -2,3 +2,4 @@ Validate new assumptions
 Update device matrix
 Capture moodboard items
 Note reorder points
+Note pipeline DAG
