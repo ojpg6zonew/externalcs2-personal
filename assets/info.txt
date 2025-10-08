@@ -2,3 +2,4 @@ Update collaboration doc
 Record DB query logs
 Update poll results
 Review financial risks
+Summarize workshop notes
