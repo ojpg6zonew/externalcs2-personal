@@ -1,2 +1,3 @@
 Plan outreach tasks
 Draft ethics policy
+Check container configs
