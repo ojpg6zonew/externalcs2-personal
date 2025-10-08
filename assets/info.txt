@@ -5,3 +5,4 @@ Note DPA clauses
 List vendor options
 Record shift handovers
 Add privacy considerations
+Summarize deployment tests
