@@ -1,3 +1,1 @@
-Update release notes
-Plan team retro
-Improve logging format
+Summarize AMA notes
