@@ -1,3 +1,4 @@
 Record certificate renewals
 Summarize journalist list
 Note pipeline DAG
+Plan lead generation
