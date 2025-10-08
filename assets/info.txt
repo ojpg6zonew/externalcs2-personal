@@ -21,3 +21,4 @@ Draft quarterly report
 Note pipeline DAG
 Draft experiment log
 Draft playbook updates
+List discount schemes
