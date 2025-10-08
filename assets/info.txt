@@ -1,4 +1,1 @@
-Note toggle plan
-Draft roadmap sketch
-Research best practices
-Adjust retry logic
+Note coverage scores
