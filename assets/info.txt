@@ -3,3 +3,4 @@ Note decision log
 Record F1 score
 Track configuration drift
 Update diagrams
+Summarize velocity trend
