@@ -18,3 +18,4 @@ Check expiry dates
 Summarize hyperparam runs
 Note threshold breaches
 Note deprecation warnings
+Record stock counts
