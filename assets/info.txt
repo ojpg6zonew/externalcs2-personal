@@ -6,3 +6,4 @@ Update diagrams
 Summarize velocity trend
 Update style guide
 Summarize outage causes
+Record shift handovers
