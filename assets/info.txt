@@ -8,3 +8,4 @@ Summarize permission gaps
 Summarize workshop notes
 Check TLS configuration
 Summarize candidate profiles
+Record competitor scans
