@@ -10,3 +10,4 @@ Experiment with prototypes
 Note interest changes
 Record expense items
 Draft support script
+Record competitor scans
