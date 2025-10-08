@@ -1,10 +1,1 @@
-Improve modularity
-Draft social post plan
-Draft pseudonymization plan
-Draft retro notes
-Draft optimization notes
-Summarize trade risks
-Update board minutes
-Note cluster issues
-Plan outreach tasks
-Update label templates
+Update collaboration doc
