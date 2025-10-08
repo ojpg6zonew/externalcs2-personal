@@ -5,3 +5,4 @@ Note reorder points
 Note pipeline DAG
 Schedule maintenance window
 Record certificate renewals
+Update threat model
