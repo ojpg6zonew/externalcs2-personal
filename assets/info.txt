@@ -1,3 +1,4 @@
 Record competitor scans
 Analyze customer data
 Brainstorm feature ideas
+Summarize bug triage
