@@ -1,2 +1,3 @@
 Summarize AMA notes
 Record CCPA checks
+Summarize FX updates
