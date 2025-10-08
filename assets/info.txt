@@ -1,1 +1,2 @@
 Update collaboration doc
+Record DB query logs
