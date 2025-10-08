@@ -11,3 +11,4 @@ Note suspicious patterns
 Update swag inventory
 Summarize quota usage
 Update tracking board
+Log regression issues
