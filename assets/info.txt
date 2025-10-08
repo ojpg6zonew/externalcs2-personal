@@ -2,3 +2,4 @@ Update hash list
 Summarize zone updates
 Draft playbook updates
 Record downtime reports
+Check delivery follow-up
