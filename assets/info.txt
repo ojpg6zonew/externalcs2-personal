@@ -4,3 +4,4 @@ Brainstorm feature ideas
 Summarize bug triage
 Review monitoring setup
 Update skill matrix
+Summarize permission gaps
