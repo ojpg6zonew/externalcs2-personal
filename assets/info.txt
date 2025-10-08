@@ -1,1 +1,1 @@
-Record user stories
+Record cache purge steps
