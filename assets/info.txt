@@ -12,3 +12,4 @@ Record restore attempt
 Note funding options
 Summarize rollout success
 Update dependency versions
+Verify API endpoints
