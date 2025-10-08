@@ -3,3 +3,4 @@ Note funding options
 Summarize regularization notes
 Update migration scripts
 Record shift handovers
+Record benchmark outcomes
