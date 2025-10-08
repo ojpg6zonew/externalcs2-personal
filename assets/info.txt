@@ -1,1 +1,2 @@
 Draft experiment log
+Note decision log
