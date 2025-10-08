@@ -6,3 +6,4 @@ Record retention schedule
 Capture monitoring gaps
 Note reorder points
 Draft recovery notes
+Draft marketing blurb
