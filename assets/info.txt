@@ -11,3 +11,4 @@ Summarize candidate profiles
 Record competitor scans
 Check build artifacts
 List influencer mentions
+Draft canary rollout
