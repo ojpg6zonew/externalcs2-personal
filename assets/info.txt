@@ -6,3 +6,4 @@ Record key rotation plan
 Summarize warehouse logs
 Plan website refresh
 Track library updates
+Summarize adoption metrics
