@@ -1,8 +1,1 @@
-Record certificate renewals
-Summarize journalist list
-Note pipeline DAG
-Plan lead generation
-Analyze user feedback
-List legal holds
-Note recall issues
-Update CDN rules
+Summarize CI logs
