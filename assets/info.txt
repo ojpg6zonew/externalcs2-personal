@@ -12,3 +12,4 @@ Record expense items
 Draft support script
 Record competitor scans
 Summarize contingency plan
+Update collaboration doc
