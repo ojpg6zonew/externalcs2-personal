@@ -1,4 +1,1 @@
-Plan outreach tasks
-Draft ethics policy
-Check container configs
-Draft routing policies
+Start new iteration of the project
