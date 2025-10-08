@@ -12,3 +12,4 @@ List semantic changes
 List UI components
 Refactor old modules
 Draft sourcing notes
+Plan career paths
