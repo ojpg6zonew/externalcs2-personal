@@ -7,3 +7,4 @@ Update skill matrix
 Summarize permission gaps
 Summarize workshop notes
 Check TLS configuration
+Summarize candidate profiles
