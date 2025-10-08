@@ -3,3 +3,4 @@ Analyze customer data
 Brainstorm feature ideas
 Summarize bug triage
 Review monitoring setup
+Update skill matrix
