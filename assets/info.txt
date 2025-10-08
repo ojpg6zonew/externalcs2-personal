@@ -8,3 +8,4 @@ Summarize war room chat
 Record prototype feedback
 Experiment with prototypes
 Note interest changes
+Record expense items
