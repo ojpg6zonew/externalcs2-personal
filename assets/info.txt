@@ -2,3 +2,4 @@ Improve modularity
 Draft social post plan
 Draft pseudonymization plan
 Draft retro notes
+Draft optimization notes
