@@ -4,3 +4,4 @@ Review financial risks
 Update session rules
 Record compliance status
 Record engagement stats
+Summarize war room chat
