@@ -4,3 +4,4 @@ Summarize FX updates
 List community ideas
 Note dataset sources
 Record compliance status
+Update diagrams
