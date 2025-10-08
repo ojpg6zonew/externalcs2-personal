@@ -2,3 +2,4 @@ Start new iteration of the project
 Summarize responsive fixes
 Review pod limits
 Review lessons learned
+Schedule maintenance window
