@@ -4,3 +4,4 @@ Draft pseudonymization plan
 Draft retro notes
 Draft optimization notes
 Summarize trade risks
+Update board minutes
