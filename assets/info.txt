@@ -7,3 +7,4 @@ Summarize uptime data
 Update infra diagram
 Refine acceptance criteria
 Summarize warehouse logs
+Prepare presentation slides
