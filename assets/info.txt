@@ -7,3 +7,4 @@ Record shift handovers
 Record expense items
 Record event calendar
 Update style guide
+Note press mentions
