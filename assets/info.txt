@@ -1,2 +1,1 @@
-Record key rotation plan
-Check localization files
+Draft weekly digest
