@@ -1,16 +1,1 @@
-Update migration scripts
-List technical debts
-Update legal references
-Summarize warehouse logs
-Track training sessions
-Note integrity checks
-Note accessibility gaps
-Draft error codes
-Note cluster issues
-Capture SWOT notes
-Note winner list
-Improve modularity
-Recheck security notes
-Update compatibility notes
-Note alignment checks
-Plan outreach tasks
+Record key rotation plan
