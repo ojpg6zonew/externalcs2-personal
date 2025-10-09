@@ -1,3 +1,4 @@
 Check anomaly alerts
 Plan lead generation
 Note reorder points
+Draft weekly digest
