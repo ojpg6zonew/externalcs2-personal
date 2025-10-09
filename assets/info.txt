@@ -2,3 +2,4 @@ Write installation notes
 Draft failover plan
 Summarize deployment tests
 Evaluate automation options
+Record CCPA checks
