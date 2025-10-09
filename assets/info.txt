@@ -3,3 +3,4 @@ Update outreach contacts
 Start new iteration of the project
 Summarize referral data
 Draft model results
+Refactor helper functions
