@@ -6,3 +6,4 @@ Note innovation backlog
 Summarize QA audits
 Check build artifacts
 Write installation notes
+Review contract clauses
