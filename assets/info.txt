@@ -1,2 +1,3 @@
 Update supply data
 Draft weekly digest
+Note cross-browser tests
