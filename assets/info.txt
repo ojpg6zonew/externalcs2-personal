@@ -2,3 +2,4 @@ Update dropout rate
 Add fallback options
 Update backup policy
 Update diagrams
+Review MFA adoption
