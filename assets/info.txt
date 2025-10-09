@@ -2,3 +2,4 @@ Draft HIPAA notes
 Note design refresh
 Investigate error patterns
 Summarize journalist list
+Clarify design goals
