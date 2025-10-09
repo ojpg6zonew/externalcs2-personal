@@ -1,4 +1,1 @@
-Summarize risks identified
-Update governance notes
-Recheck security notes
-Record CCPA checks
+Update supply data
