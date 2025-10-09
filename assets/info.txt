@@ -1,3 +1,1 @@
-Update redundancy notes
-List action follow-ups
-Summarize brand sentiment
+Summarize bug triage
