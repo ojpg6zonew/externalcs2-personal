@@ -16,3 +16,4 @@ Plan PR campaign
 Summarize adoption metrics
 Log daily progress
 Note cross-browser tests
+Update CDN rules
