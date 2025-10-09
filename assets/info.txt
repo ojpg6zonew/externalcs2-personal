@@ -8,3 +8,4 @@ Check build artifacts
 Write installation notes
 Review contract clauses
 List banking contacts
+Summarize market trends
