@@ -1,10 +1,1 @@
-Write installation notes
-Draft failover plan
-Summarize deployment tests
-Evaluate automation options
-Record CCPA checks
-Record shift handovers
-Record expense items
-Record event calendar
-Update style guide
-Note press mentions
+Draft weekly digest
