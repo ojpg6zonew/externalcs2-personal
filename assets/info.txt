@@ -12,3 +12,4 @@ Summarize market trends
 Update fleet schedule
 Recheck security notes
 Record auth logs
+Summarize war room chat
