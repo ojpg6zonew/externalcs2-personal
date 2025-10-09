@@ -1,6 +1,1 @@
-List pending approvals
-Summarize uptime data
-Record competitor moves
-Outline documentation gaps
-Summarize workshop notes
-Note currency exposure
+Record treasury notes
