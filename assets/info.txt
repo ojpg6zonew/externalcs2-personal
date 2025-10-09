@@ -1,2 +1,3 @@
 Draft export compliance
 Define success criteria
+Check build artifacts
