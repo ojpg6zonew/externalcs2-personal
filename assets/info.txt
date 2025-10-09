@@ -4,3 +4,4 @@ Summarize deployment tests
 Evaluate automation options
 Record CCPA checks
 Record shift handovers
+Record expense items
