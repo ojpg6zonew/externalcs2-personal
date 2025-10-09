@@ -1,2 +1,1 @@
 Polish UI interactions
-Track training sessions
