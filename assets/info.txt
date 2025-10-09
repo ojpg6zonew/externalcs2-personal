@@ -1,3 +1,4 @@
 List pending approvals
 Summarize uptime data
 Record competitor moves
+Outline documentation gaps
