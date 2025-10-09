@@ -5,3 +5,4 @@ Refine backlog items
 Note innovation backlog
 Summarize QA audits
 Check build artifacts
+Write installation notes
