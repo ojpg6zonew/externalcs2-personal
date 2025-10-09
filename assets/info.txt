@@ -4,3 +4,4 @@ Record DB query logs
 Review glossary terms
 Summarize brand sentiment
 Check customs docs
+Review MFA adoption
