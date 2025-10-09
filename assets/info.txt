@@ -10,3 +10,4 @@ Check dependencies for updates
 Record action items
 Review billing items
 Draft PR highlights
+Summarize KPIs
