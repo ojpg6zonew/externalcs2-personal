@@ -9,3 +9,4 @@ Review pull requests
 Write installation notes
 Summarize giveaway notes
 Draft canary rollout
+List shipping costs
