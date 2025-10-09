@@ -1,3 +1,4 @@
 Update deletion logs
 Summarize hyperparam runs
 Record load test data
+Capture SWOT notes
