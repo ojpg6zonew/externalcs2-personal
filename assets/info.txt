@@ -11,3 +11,4 @@ Update swag inventory
 Update style guide
 Note conference topics
 Summarize regularization notes
+Draft ethics policy
