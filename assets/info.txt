@@ -6,3 +6,4 @@ Draft sourcing notes
 Plan rollback procedure
 Draft mitigation guide
 Update skill matrix
+Update logging sinks
