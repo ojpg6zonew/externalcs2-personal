@@ -5,3 +5,4 @@ Review financial risks
 Check benchmark scores
 Summarize uptime data
 Update infra diagram
+Refine acceptance criteria
