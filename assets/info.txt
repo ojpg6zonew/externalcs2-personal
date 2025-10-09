@@ -5,3 +5,4 @@ Evaluate automation options
 Record CCPA checks
 Record shift handovers
 Record expense items
+Record event calendar
