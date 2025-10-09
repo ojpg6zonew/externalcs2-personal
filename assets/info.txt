@@ -1,2 +1,3 @@
 Brainstorm feature ideas
 Summarize hyperparam runs
+Log strategic initiatives
