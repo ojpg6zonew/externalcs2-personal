@@ -1,1 +1,2 @@
 Record hackathon ideas
+Update plan for next release
