@@ -1,9 +1,1 @@
-Note sprint outcome
-Update outreach contacts
-Start new iteration of the project
-Summarize referral data
-Draft model results
-Refactor helper functions
-Summarize results
-Add alternative approaches
-Record progress KPIs
+Note shadow test
