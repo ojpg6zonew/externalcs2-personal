@@ -13,3 +13,4 @@ Note conference topics
 Summarize regularization notes
 Draft ethics policy
 Note training needs
+Check burndown chart
