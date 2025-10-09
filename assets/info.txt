@@ -1,14 +1,1 @@
-Summarize bug triage
-Draft export compliance
-Update reproducibility logs
-Log post-launch issues
-Update test matrix
-Record budget estimates
-Check API gateway
-Plan data migration
-Plan oncall shifts
-List UI components
-Update load balancer notes
-Note accessibility gaps
-Record IDS findings
-Define success criteria
+Note latency spikes
