@@ -1,2 +1,3 @@
 Review contract clauses
 Summarize zone updates
+List domain records
