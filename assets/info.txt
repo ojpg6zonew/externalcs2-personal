@@ -1,7 +1,1 @@
-Draft weekly digest
-Refine acceptance criteria
-Draft opportunity list
-Summarize rollback drills
-Draft onboarding steps
-Summarize AMA notes
-Draft integration plan
+Update collaboration doc
