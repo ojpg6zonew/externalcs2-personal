@@ -8,3 +8,4 @@ Draft mitigation guide
 Update skill matrix
 Update logging sinks
 Note legal risks
+Record shift handovers
