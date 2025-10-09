@@ -6,3 +6,4 @@ Track training sessions
 Note integrity checks
 Note accessibility gaps
 Draft error codes
+Note cluster issues
