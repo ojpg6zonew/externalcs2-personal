@@ -8,3 +8,4 @@ Create new test cases
 Review pull requests
 Write installation notes
 Summarize giveaway notes
+Draft canary rollout
