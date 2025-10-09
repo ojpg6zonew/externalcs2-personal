@@ -12,3 +12,4 @@ Review billing items
 Draft PR highlights
 Summarize KPIs
 Analyze customer data
+Note trending topics
