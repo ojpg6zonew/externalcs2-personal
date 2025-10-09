@@ -2,3 +2,4 @@ Capture open questions
 Note interest changes
 Record DB query logs
 Review glossary terms
+Summarize brand sentiment
