@@ -6,3 +6,4 @@ Update test matrix
 Record budget estimates
 Check API gateway
 Plan data migration
+Plan oncall shifts
