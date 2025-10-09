@@ -8,3 +8,4 @@ Record benchmark outcomes
 Brainstorm feature ideas
 Check dependencies for updates
 Record action items
+Review billing items
