@@ -11,3 +11,4 @@ Capture SWOT notes
 Note winner list
 Improve modularity
 Recheck security notes
+Update compatibility notes
