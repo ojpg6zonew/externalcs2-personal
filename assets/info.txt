@@ -9,3 +9,4 @@ Refine acceptance criteria
 Summarize warehouse logs
 Prepare presentation slides
 Record CCPA checks
+Draft error codes
