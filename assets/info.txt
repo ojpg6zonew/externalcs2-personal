@@ -1,2 +1,3 @@
 Check anomaly alerts
 Plan lead generation
+Note reorder points
