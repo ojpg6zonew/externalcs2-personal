@@ -1,16 +1,1 @@
-Review contract clauses
-Summarize zone updates
-List domain records
-Start new iteration of the project
-Draft detection rules
-Draft ensemble plan
-Record benchmark outcomes
-Brainstorm feature ideas
-Check dependencies for updates
-Record action items
-Review billing items
-Draft PR highlights
-Summarize KPIs
-Analyze customer data
-Note trending topics
-Review SLA metrics
+Record prototype feedback
