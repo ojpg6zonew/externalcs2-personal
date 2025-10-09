@@ -6,3 +6,4 @@ Draft celebration notes
 Plan capacity increase
 Create new test cases
 Review pull requests
+Write installation notes
