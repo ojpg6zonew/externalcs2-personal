@@ -8,3 +8,4 @@ Summarize QA audits
 Summarize opt-out stats
 Draft mitigation guide
 Update swag inventory
+Update style guide
