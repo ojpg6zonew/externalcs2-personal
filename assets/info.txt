@@ -1,4 +1,1 @@
-Note design refresh
-Plan oncall shifts
-Log post-launch issues
-Summarize ROC data
+Write installation notes
