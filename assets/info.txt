@@ -7,3 +7,4 @@ Draft contest plan
 Review pod limits
 Note provider options
 Summarize feedback loops
+Review pod limits
