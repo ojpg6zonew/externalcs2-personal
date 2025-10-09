@@ -5,3 +5,4 @@ Summarize warehouse logs
 Track training sessions
 Note integrity checks
 Note accessibility gaps
+Draft error codes
