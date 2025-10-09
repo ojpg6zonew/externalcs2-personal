@@ -1,13 +1,1 @@
-Draft emergency contacts
-Record HR initiatives
-Draft contest plan
-Update governance notes
-Draft celebration notes
-Plan capacity increase
-Create new test cases
-Review pull requests
-Write installation notes
-Summarize giveaway notes
-Draft canary rollout
-List shipping costs
-Record treasury notes
+Record CSS tweaks
