@@ -1,16 +1,1 @@
-Update deletion logs
-Summarize hyperparam runs
-Record load test data
-Capture SWOT notes
-Record stakeholder feedback
-Update migration scripts
-Summarize QA audits
-Summarize opt-out stats
-Draft mitigation guide
-Update swag inventory
-Update style guide
-Note conference topics
-Summarize regularization notes
-Draft ethics policy
-Note training needs
-Check burndown chart
+Note investment options
