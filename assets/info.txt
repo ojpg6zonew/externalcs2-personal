@@ -1,2 +1,3 @@
 Update migration scripts
 List technical debts
+Update legal references
