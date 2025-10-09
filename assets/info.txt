@@ -2,3 +2,4 @@ Update dropout rate
 Update glossary
 Record underfit case
 Plan capacity increase
+Draft mockup notes
