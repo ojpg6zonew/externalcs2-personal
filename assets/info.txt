@@ -10,3 +10,4 @@ Draft mitigation guide
 Update swag inventory
 Update style guide
 Note conference topics
+Summarize regularization notes
