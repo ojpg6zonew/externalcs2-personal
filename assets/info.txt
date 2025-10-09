@@ -5,3 +5,4 @@ Draft ensemble plan
 Capture UI feedback
 Review logo sketches
 Log board decisions
+Track configuration drift
