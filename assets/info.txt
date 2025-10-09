@@ -4,3 +4,4 @@ Record acceptance tests
 Review performance budgets
 Summarize thank-you notes
 Record stakeholder feedback
+Draft mitigation guide
