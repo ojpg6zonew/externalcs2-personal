@@ -1,2 +1,1 @@
-Record prototype feedback
-Update glossary
+Polish UI interactions
