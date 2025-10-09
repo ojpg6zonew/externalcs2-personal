@@ -1,3 +1,4 @@
 Draft weekly digest
 Clarify design goals
 Record acceptance tests
+Review performance budgets
