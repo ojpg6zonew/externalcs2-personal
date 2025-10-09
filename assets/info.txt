@@ -5,3 +5,4 @@ Recheck security notes
 Note customer churn
 Audit project structure
 Validate new assumptions
+Log mitigation steps
