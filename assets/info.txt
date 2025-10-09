@@ -9,3 +9,4 @@ Update skill matrix
 Update logging sinks
 Note legal risks
 Record shift handovers
+Add fallback options
