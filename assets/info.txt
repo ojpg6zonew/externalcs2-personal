@@ -3,3 +3,4 @@ List domain records
 Schedule next sprint planning
 Log daily progress
 Summarize security audit
+Review escalation paths
