@@ -3,3 +3,4 @@ Define success criteria
 Check build artifacts
 Draft migration checklist
 Draft sourcing notes
+Plan rollback procedure
