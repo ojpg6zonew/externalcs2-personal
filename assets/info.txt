@@ -2,3 +2,4 @@ Review contract clauses
 Summarize zone updates
 List domain records
 Start new iteration of the project
+Draft detection rules
