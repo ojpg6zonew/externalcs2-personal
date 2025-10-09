@@ -1,1 +1,2 @@
 Update migration scripts
+List technical debts
