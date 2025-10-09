@@ -4,3 +4,4 @@ Update legal references
 Summarize warehouse logs
 Track training sessions
 Note integrity checks
+Note accessibility gaps
