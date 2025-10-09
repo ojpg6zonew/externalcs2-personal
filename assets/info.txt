@@ -1,2 +1,1 @@
-List legal holds
-Check monitoring alerts
+Update deletion logs
