@@ -4,3 +4,4 @@ Note cross-browser tests
 Recheck security notes
 Note customer churn
 Audit project structure
+Validate new assumptions
