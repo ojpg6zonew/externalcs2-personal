@@ -9,3 +9,4 @@ Plan data migration
 Plan oncall shifts
 List UI components
 Update load balancer notes
+Note accessibility gaps
