@@ -5,3 +5,4 @@ List pending approvals
 List OKRs
 Evaluate automation options
 Adjust retry logic
+Draft roadmap sketch
