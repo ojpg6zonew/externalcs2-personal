@@ -13,3 +13,4 @@ List rotation schedule
 Summarize uptime data
 Update alerting rules
 Update tracking board
+Draft pseudonymization plan
