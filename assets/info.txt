@@ -10,3 +10,4 @@ Log post-launch issues
 Update compatibility notes
 Note content review
 Draft contest plan
+Update migration scripts
