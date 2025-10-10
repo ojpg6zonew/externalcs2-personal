@@ -1,1 +1,2 @@
 Update AUC results
+Check build artifacts
