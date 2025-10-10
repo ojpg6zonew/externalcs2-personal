@@ -16,3 +16,4 @@ Draft packaging guide
 Note legal risks
 Record NPS score
 Summarize content audit
+Record compliance status
