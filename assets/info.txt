@@ -4,3 +4,4 @@ Record CSS tweaks
 Prepare hiring plan
 Record acceptance tests
 Summarize workshop notes
+Summarize FX updates
