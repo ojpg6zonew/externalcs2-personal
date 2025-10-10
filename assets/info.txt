@@ -18,3 +18,4 @@ Record NPS score
 Add alternative approaches
 List OKRs
 Draft leadership notes
+Check delivery follow-up
