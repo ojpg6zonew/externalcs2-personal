@@ -2,3 +2,4 @@ Expand integration tests
 Record downtime reports
 Record CSS tweaks
 Prepare hiring plan
+Record acceptance tests
