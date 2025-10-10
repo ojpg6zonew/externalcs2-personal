@@ -3,3 +3,4 @@ Draft staging plan
 Summarize industry news
 Draft release checklist
 Draft liquidity plan
+Summarize KPIs
