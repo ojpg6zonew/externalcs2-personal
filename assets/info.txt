@@ -5,3 +5,4 @@ Review billing items
 Summarize version bumps
 Check build artifacts
 Draft contest plan
+Summarize security audit
