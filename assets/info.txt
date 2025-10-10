@@ -4,3 +4,4 @@ Summarize validation data
 Review billing items
 Summarize version bumps
 Check build artifacts
+Draft contest plan
