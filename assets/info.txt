@@ -1,3 +1,4 @@
 Note suspicious patterns
 Note sprint outcome
 Summarize workshop notes
+Check monitoring alerts
