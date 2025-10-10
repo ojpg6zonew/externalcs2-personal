@@ -2,3 +2,4 @@ Update glossary
 Draft support script
 Note DNS changes
 Summarize content audit
+Update annotation tool
