@@ -7,3 +7,4 @@ Record load test data
 Track training sessions
 Summarize referral data
 Prepare hiring plan
+Summarize bug triage
