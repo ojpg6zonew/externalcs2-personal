@@ -3,3 +3,4 @@ Record downtime reports
 Record CSS tweaks
 Prepare hiring plan
 Record acceptance tests
+Summarize workshop notes
