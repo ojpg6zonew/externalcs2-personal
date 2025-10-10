@@ -12,3 +12,4 @@ Update collaboration doc
 Update proof-of-concept
 Update editorial calendar
 Review lessons learned
+Draft packaging guide
