@@ -9,3 +9,4 @@ Record survey highlights
 Improve logging format
 Record labeling guide
 Summarize ROC data
+Review glossary terms
