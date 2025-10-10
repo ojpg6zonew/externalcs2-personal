@@ -1,3 +1,4 @@
 Summarize contingency plan
 Update portfolio deck
 Record validation scores
+Draft detection rules
