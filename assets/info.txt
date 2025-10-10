@@ -1,8 +1,1 @@
-Update outreach contacts
-List missing coverage
-Analyze customer data
-Summarize key takeaways
-Summarize brand sentiment
-Draft failover plan
-List discount schemes
-Record CSS tweaks
+Draft integration plan
