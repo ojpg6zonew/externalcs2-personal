@@ -4,3 +4,4 @@ Analyze customer data
 Summarize key takeaways
 Summarize brand sentiment
 Draft failover plan
+List discount schemes
