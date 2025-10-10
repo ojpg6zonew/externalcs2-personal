@@ -4,3 +4,4 @@ Update session rules
 Check build artifacts
 Update validation plan
 Start new iteration of the project
+Note escalation matrix
