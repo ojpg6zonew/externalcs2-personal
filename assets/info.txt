@@ -1,1 +1,2 @@
 Draft registrar tasks
+Draft detection rules
