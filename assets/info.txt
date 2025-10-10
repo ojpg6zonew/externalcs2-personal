@@ -11,3 +11,4 @@ Update compatibility notes
 Note content review
 Draft contest plan
 Update migration scripts
+Record blue-green notes
