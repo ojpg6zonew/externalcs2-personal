@@ -1,3 +1,4 @@
 Plan cashflow forecast
 Prepare presentation slides
 Plan rollback procedure
+Note winner list
