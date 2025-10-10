@@ -1,4 +1,1 @@
-Review MFA adoption
-Summarize hyperparam runs
-Draft partnership ideas
-Draft blog outline
+Draft PR highlights
