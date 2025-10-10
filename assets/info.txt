@@ -7,3 +7,4 @@ Note lessons learned
 Summarize CI logs
 Update diagrams
 Summarize security audit
+Plan oncall shifts
