@@ -1,2 +1,1 @@
-Update partner map
-Update governance notes
+Note encryption methods
