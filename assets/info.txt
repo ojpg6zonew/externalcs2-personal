@@ -1,3 +1,4 @@
 Draft canary rollout
 Record CI/CD pipeline
 Summarize feedback loops
+Note cluster issues
