@@ -1,3 +1,4 @@
 Draft registrar tasks
 Draft detection rules
 Check dependencies for updates
+Define success criteria
