@@ -2,3 +2,4 @@ Update outreach contacts
 List missing coverage
 Analyze customer data
 Summarize key takeaways
+Summarize brand sentiment
