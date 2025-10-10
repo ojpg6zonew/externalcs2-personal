@@ -3,3 +3,4 @@ Record media queries
 Summarize permission gaps
 Update alerting rules
 Record validation scores
+Draft onboarding checklist
