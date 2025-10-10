@@ -2,3 +2,4 @@ Draft PR highlights
 Draft ethics policy
 Check shipment status
 List pending approvals
+List OKRs
