@@ -1,3 +1,4 @@
 Review cost savings
 Plan website refresh
 Summarize validation data
+Review billing items
