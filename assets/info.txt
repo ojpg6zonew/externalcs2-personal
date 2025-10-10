@@ -1,2 +1,3 @@
 Update glossary
 Draft support script
+Note DNS changes
