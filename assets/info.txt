@@ -1,3 +1,4 @@
 Record edge cases
 Note design refresh
 Draft packaging guide
+Update swag inventory
