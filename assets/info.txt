@@ -1,2 +1,3 @@
 Review financial risks
 Review contract clauses
+Update hash list
