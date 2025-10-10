@@ -1,3 +1,4 @@
 List missing coverage
 Record steering notes
 Note cluster issues
+Draft release checklist
