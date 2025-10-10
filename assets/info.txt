@@ -2,3 +2,4 @@ Summarize CI logs
 Review financial risks
 List known limitations
 Summarize litigation notes
+Draft registrar tasks
