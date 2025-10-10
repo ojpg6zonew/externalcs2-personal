@@ -7,3 +7,4 @@ Record user stories
 Update release notes
 Update AUC results
 List OKRs
+Summarize call notes
