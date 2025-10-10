@@ -7,3 +7,4 @@ Summarize workshop notes
 Summarize FX updates
 Note integrity checks
 Record validation scores
+Record event calendar
