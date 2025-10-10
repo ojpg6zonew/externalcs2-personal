@@ -3,3 +3,4 @@ Note sprint outcome
 Summarize workshop notes
 Check monitoring alerts
 Summarize trade risks
+Note DNS changes
