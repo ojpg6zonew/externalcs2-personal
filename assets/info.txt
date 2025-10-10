@@ -3,3 +3,4 @@ Review financial risks
 List known limitations
 Summarize litigation notes
 Draft registrar tasks
+Record blue-green notes
