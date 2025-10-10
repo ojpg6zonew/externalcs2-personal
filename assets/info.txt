@@ -11,3 +11,4 @@ Record labeling guide
 Summarize ROC data
 Review glossary terms
 Review architecture decisions
+Document retry policy
