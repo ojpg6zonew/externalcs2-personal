@@ -5,3 +5,4 @@ Draft release checklist
 Draft liquidity plan
 Summarize KPIs
 Capture UI feedback
+List cluster configs
