@@ -1,8 +1,1 @@
-Experiment with prototypes
-Record feature votes
-Update session rules
-Check build artifacts
-Update validation plan
-Start new iteration of the project
-Note escalation matrix
-Update threat model
+Draft blog outline
