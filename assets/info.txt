@@ -3,3 +3,4 @@ Log board decisions
 Update mitigation table
 Draft exploration notes
 Document key decisions
+Record user stories
