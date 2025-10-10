@@ -1,3 +1,4 @@
 List semantic changes
 Record acceptance tests
 Summarize security audit
+Record prize details
