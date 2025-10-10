@@ -1,2 +1,1 @@
-Record stock counts
-Record expense items
+Capture open questions
