@@ -3,3 +3,4 @@ Plan website refresh
 Summarize validation data
 Review billing items
 Summarize version bumps
+Check build artifacts
