@@ -1,5 +1,1 @@
-Review cost savings
-Record competitor scans
-Note deprecation warnings
-Update validation plan
-Update changelog with details
+Clarify design goals
