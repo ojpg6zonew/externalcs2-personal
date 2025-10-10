@@ -7,3 +7,4 @@ Evaluate automation options
 Adjust retry logic
 Draft roadmap sketch
 Log post-launch issues
+Update compatibility notes
