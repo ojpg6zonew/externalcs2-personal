@@ -1,2 +1,1 @@
-Record engagement stats
-Note deprecation warnings
+Track timeline adjustments
