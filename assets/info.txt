@@ -5,3 +5,4 @@ Record prize details
 Update recognition board
 Check backup status
 Draft weekly digest
+Update dispute outcomes
