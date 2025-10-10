@@ -6,3 +6,4 @@ Summarize version bumps
 Check build artifacts
 Draft contest plan
 Summarize security audit
+Update cross-team docs
