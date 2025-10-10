@@ -2,3 +2,4 @@ Update AUC results
 Check build artifacts
 List banking contacts
 List UI components
+Note latency spikes
