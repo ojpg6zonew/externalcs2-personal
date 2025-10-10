@@ -5,3 +5,4 @@ Record event calendar
 List hypothesis tests
 Audit database schema
 Add fallback options
+Note encryption methods
