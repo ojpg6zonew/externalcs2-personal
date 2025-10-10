@@ -1,1 +1,2 @@
 Note encryption methods
+Prepare closure report
