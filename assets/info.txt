@@ -6,3 +6,4 @@ Check customs docs
 Note escalation matrix
 Summarize outage causes
 Note suspicious patterns
+Plan outreach tasks
