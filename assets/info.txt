@@ -15,3 +15,4 @@ Record blue-green notes
 Update reproducibility logs
 Record cache purge steps
 Note trend shifts
+Note pass/fail ratio
