@@ -14,3 +14,4 @@ Summarize uptime data
 Update alerting rules
 Update tracking board
 Draft pseudonymization plan
+Record NPS score
