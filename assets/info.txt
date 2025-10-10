@@ -3,3 +3,4 @@ Draft ethics policy
 Check shipment status
 List pending approvals
 List OKRs
+Evaluate automation options
