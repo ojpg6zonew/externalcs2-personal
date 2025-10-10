@@ -4,3 +4,4 @@ Record engagement stats
 Analyze user feedback
 Check customs docs
 Note escalation matrix
+Summarize outage causes
