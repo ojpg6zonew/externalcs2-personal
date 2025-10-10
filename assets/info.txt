@@ -7,3 +7,4 @@ Check build artifacts
 Draft contest plan
 Summarize security audit
 Update cross-team docs
+Research best practices
