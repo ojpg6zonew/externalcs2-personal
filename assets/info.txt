@@ -3,3 +3,4 @@ Prepare presentation slides
 Plan rollback procedure
 Note winner list
 Note deprecated functions
+List vendor options
