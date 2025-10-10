@@ -19,3 +19,4 @@ Summarize content audit
 Record compliance status
 Update legal references
 Draft tuning plan
+List cluster configs
