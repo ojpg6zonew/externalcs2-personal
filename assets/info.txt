@@ -1,10 +1,1 @@
-Clarify design goals
-Record feature votes
-Summarize restore drills
-Note escalation matrix
-Draft mockup notes
-Record load test data
-Track training sessions
-Summarize referral data
-Prepare hiring plan
-Summarize bug triage
+Note currency exposure
