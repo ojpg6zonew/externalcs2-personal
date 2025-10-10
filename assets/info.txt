@@ -1,7 +1,1 @@
-Log mitigation steps
-Review pull requests
-Update AB split logs
-Plan capacity increase
-Draft roadmap alignment
-Update device matrix
-Draft loyalty program
+Draft canary rollout
