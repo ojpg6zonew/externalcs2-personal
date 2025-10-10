@@ -4,3 +4,4 @@ Update mitigation table
 Draft exploration notes
 Document key decisions
 Record user stories
+Update release notes
