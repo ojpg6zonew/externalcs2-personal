@@ -1,2 +1,3 @@
 Review cost savings
 Record competitor scans
+Note deprecation warnings
