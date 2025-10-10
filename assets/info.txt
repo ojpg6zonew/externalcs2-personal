@@ -3,3 +3,4 @@ Review contract clauses
 Update hash list
 Record hackathon ideas
 Draft SSO integration
+Note lessons learned
