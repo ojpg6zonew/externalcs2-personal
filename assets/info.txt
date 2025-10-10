@@ -1,1 +1,2 @@
 Update glossary
+Draft support script
