@@ -1,4 +1,1 @@
-Note pass/fail ratio
-Summarize hyperparam runs
-Review financial risks
-Record event calendar
+Summarize key takeaways
