@@ -16,3 +16,4 @@ Update reproducibility logs
 Record cache purge steps
 Note trend shifts
 Note pass/fail ratio
+Note integrity checks
