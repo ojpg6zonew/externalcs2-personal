@@ -6,3 +6,4 @@ Log post-launch issues
 Summarize SIEM setup
 Log mitigation steps
 Record survey highlights
+Improve logging format
