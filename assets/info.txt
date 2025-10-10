@@ -3,3 +3,4 @@ Note design refresh
 Draft packaging guide
 Update swag inventory
 Note latency spikes
+Record feature votes
