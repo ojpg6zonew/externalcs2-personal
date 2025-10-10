@@ -6,3 +6,4 @@ Record acceptance tests
 Summarize workshop notes
 Summarize FX updates
 Note integrity checks
+Record validation scores
