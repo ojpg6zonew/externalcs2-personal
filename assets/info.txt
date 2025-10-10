@@ -10,3 +10,4 @@ Summarize security audit
 Plan oncall shifts
 Refine acceptance criteria
 List rotation schedule
+Summarize uptime data
