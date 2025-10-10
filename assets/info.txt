@@ -4,3 +4,4 @@ Summarize workshop notes
 Check monitoring alerts
 Summarize trade risks
 Note DNS changes
+Draft roadmap alignment
