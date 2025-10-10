@@ -7,3 +7,4 @@ Check backup status
 Draft weekly digest
 Update dispute outcomes
 Draft roadmap sketch
+Draft SSO integration
