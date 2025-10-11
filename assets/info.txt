@@ -2,3 +2,4 @@ Summarize CI logs
 Sketch new interface ideas
 Draft roadmap sketch
 Summarize testing report
+Check monitoring alerts
