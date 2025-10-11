@@ -7,3 +7,4 @@ Summarize market trends
 Update deletion logs
 Draft accessibility review
 Note deprecation warnings
+Update style guide
