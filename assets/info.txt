@@ -6,3 +6,4 @@ Note content review
 Summarize market trends
 Update deletion logs
 Draft accessibility review
+Note deprecation warnings
