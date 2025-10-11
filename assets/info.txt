@@ -1,2 +1,1 @@
-Note training needs
-Draft migration checklist
+Note coverage scores
