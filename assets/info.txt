@@ -9,3 +9,4 @@ Update dispute outcomes
 Draft roadmap sketch
 Draft SSO integration
 Update kill switch
+Record prize details
