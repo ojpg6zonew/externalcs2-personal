@@ -1,2 +1,3 @@
 Note interest changes
 List UI components
+Draft optimization notes
