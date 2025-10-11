@@ -1,2 +1,1 @@
-Document retry policy
-Note encryption methods
+Write installation notes
