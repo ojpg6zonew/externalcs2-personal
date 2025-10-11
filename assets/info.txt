@@ -1,3 +1,4 @@
 Write installation notes
 List rotation schedule
 Summarize industry news
+Draft migration checklist
