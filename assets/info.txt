@@ -2,3 +2,4 @@ Note interest changes
 List UI components
 Draft optimization notes
 Update pricing table
+Summarize contract renewals
