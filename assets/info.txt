@@ -7,3 +7,4 @@ Outline documentation gaps
 Record certificate renewals
 Refine SEO checklist
 Draft feature proposal
+Log regression issues
