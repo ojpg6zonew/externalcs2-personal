@@ -1,1 +1,2 @@
 Draft documentation outline
+Update dependency versions
