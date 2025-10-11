@@ -5,3 +5,4 @@ Log regression issues
 Update collaboration doc
 Draft staging plan
 Record HR initiatives
+Capture monitoring gaps
