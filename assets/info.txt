@@ -1,2 +1,3 @@
 Summarize trade risks
 Review financial risks
+Draft onboarding checklist
