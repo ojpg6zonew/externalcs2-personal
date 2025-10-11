@@ -8,3 +8,4 @@ Record HR initiatives
 Capture monitoring gaps
 Add unit test coverage
 Note press mentions
+Draft sales strategy
