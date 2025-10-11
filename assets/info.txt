@@ -1,3 +1,4 @@
 Prepare roadmap for Q1
 Review revenue data
 Draft UX improvements
+Summarize brand sentiment
