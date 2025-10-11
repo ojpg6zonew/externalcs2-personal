@@ -3,3 +3,4 @@ Record DB query logs
 Summarize uptime data
 Prepare closure report
 Collect metrics for dashboard
+Review architecture decisions
