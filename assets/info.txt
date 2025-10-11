@@ -1,11 +1,1 @@
-Record feedback cycle
-Plan lead generation
-Draft ethics policy
-Log regression issues
-Update collaboration doc
-Draft staging plan
-Record HR initiatives
-Capture monitoring gaps
-Add unit test coverage
-Note press mentions
-Draft sales strategy
+Review pull requests
