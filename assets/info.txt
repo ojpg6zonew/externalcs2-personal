@@ -2,3 +2,4 @@ Draft documentation outline
 Update dependency versions
 Log daily progress
 Check error handling
+List rotation schedule
