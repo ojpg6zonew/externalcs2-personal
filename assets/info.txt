@@ -1,4 +1,1 @@
-Note training epochs
-Summarize FX updates
-Review WAF settings
-Update poll results
+Summarize CI logs
