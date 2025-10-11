@@ -1,1 +1,2 @@
 Document retry policy
+Note encryption methods
