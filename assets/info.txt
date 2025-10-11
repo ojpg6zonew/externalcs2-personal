@@ -7,3 +7,4 @@ Review architecture decisions
 Note content review
 Update contact list
 Summarize workshop notes
+Record survey highlights
