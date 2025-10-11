@@ -12,3 +12,4 @@ Record budget estimates
 Summarize bug triage
 Document retry policy
 Note blocker list
+Plan deployment strategy
