@@ -3,3 +3,4 @@ List hypothesis tests
 Check localization files
 Check breaking changes
 Update changelog with details
+List OKRs
