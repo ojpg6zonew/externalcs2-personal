@@ -1,13 +1,1 @@
-List semantic changes
-Record acceptance tests
-Summarize security audit
-Record prize details
-Update recognition board
-Check backup status
-Draft weekly digest
-Update dispute outcomes
-Draft roadmap sketch
-Draft SSO integration
-Update kill switch
-Record prize details
-Update P&L sheet
+Research best practices
