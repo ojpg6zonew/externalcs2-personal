@@ -6,3 +6,4 @@ Schedule publishing plan
 Plan team retro
 Record NPS score
 Prepare roadmap for Q1
+Draft style samples
