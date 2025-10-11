@@ -3,3 +3,4 @@ Plan lead generation
 Draft ethics policy
 Log regression issues
 Update collaboration doc
+Draft staging plan
