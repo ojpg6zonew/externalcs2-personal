@@ -11,3 +11,4 @@ Update style guide
 Record budget estimates
 Summarize bug triage
 Document retry policy
+Note blocker list
