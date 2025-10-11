@@ -4,3 +4,4 @@ Draft onboarding checklist
 Note cross-browser tests
 Update dispute outcomes
 Outline documentation gaps
+Record certificate renewals
