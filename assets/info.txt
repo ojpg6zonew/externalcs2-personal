@@ -1,3 +1,1 @@
-Summarize SIEM setup
-Record gradual rollout
-Summarize last meeting notes
+List rotation schedule
