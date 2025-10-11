@@ -1,3 +1,4 @@
 Log board decisions
 Summarize opt-out stats
 Check burndown chart
+Update legal references
