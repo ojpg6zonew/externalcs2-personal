@@ -2,3 +2,4 @@ Summarize zone updates
 Plan oncall shifts
 Track library updates
 Prepare roadmap for Q1
+Note content review
