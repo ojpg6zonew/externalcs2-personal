@@ -1,17 +1,1 @@
-Summarize zone updates
-Plan oncall shifts
-Track library updates
-Prepare roadmap for Q1
-Note content review
-Summarize market trends
-Update deletion logs
-Draft accessibility review
-Note deprecation warnings
-Update style guide
-Record budget estimates
-Summarize bug triage
-Document retry policy
-Note blocker list
-Plan deployment strategy
-Record acceptance tests
-Evaluate automation options
+Record feedback cycle
