@@ -5,3 +5,4 @@ Prepare closure report
 Collect metrics for dashboard
 Review architecture decisions
 Note content review
+Update contact list
