@@ -7,3 +7,4 @@ Draft staging plan
 Record HR initiatives
 Capture monitoring gaps
 Add unit test coverage
+Note press mentions
