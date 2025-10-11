@@ -4,3 +4,4 @@ Summarize industry news
 Draft migration checklist
 Draft celebration notes
 Record expense items
+Log strategic initiatives
