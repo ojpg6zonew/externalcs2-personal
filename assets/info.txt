@@ -1,2 +1,1 @@
-Note coverage scores
-Document retry policy
+Summarize rollout success
