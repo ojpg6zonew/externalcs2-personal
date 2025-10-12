@@ -24,3 +24,4 @@ Note firewall configs
 Check breaking changes
 Check API gateway
 Note training needs
+Note training needs
