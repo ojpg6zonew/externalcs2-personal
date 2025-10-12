@@ -1,3 +1,1 @@
-Prepare case studies
-Draft retro notes
-Summarize deployment tests
+Summarize rollback drills
