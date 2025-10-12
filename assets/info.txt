@@ -1,4 +1,1 @@
-Prepare status email
-Verify API endpoints
-Summarize AMA notes
-Record risk register
+Record load test data
