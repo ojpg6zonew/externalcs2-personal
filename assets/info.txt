@@ -1,4 +1,1 @@
-Review SLA metrics
-Draft emergency contacts
-Record procurement steps
-Update label templates
+Review pull requests
