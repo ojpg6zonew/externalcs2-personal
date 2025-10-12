@@ -18,3 +18,4 @@ Capture moodboard items
 Record benchmark outcomes
 Draft retro notes
 Draft packaging guide
+Draft onboarding checklist
