@@ -10,3 +10,4 @@ Note sprint outcome
 Record automation scripts
 Evaluate automation options
 Draft onboarding checklist
+Summarize key takeaways
