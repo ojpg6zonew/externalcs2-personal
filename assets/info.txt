@@ -3,3 +3,4 @@ Review performance budgets
 Update changelog with details
 Record HR initiatives
 Write outcome summary
+Draft exploration notes
