@@ -1,4 +1,1 @@
-Validate new assumptions
-Note identity checks
-Add unit test coverage
-Update mentoring plan
+Review SLA metrics
