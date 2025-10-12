@@ -1,7 +1,1 @@
-Record procurement steps
-Note cross-browser tests
-Update API limits
-Draft canary rollout
-Draft forum summary
-Fix minor issues in workflow
-Note threshold breaches
+Draft QA strategy
