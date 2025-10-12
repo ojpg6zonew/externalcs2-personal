@@ -8,3 +8,4 @@ Note cluster issues
 Create new test cases
 Note sprint outcome
 Record automation scripts
+Evaluate automation options
