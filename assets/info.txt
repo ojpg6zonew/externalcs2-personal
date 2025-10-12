@@ -1,1 +1,2 @@
 Draft loyalty program
+Check anomaly alerts
