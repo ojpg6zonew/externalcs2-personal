@@ -1,3 +1,4 @@
 Capture article topics
 Summarize content audit
 Check backup status
+Update release notes
