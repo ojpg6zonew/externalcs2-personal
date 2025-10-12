@@ -9,3 +9,4 @@ Update retention plan
 Draft registrar tasks
 Update mentoring plan
 Record labeling guide
+Draft QA strategy
