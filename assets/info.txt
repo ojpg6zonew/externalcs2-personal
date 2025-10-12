@@ -11,3 +11,4 @@ Summarize key takeaways
 Draft onboarding checklist
 Summarize ML metrics
 Record blue-green notes
+Update changelog with details
