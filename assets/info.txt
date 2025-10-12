@@ -7,3 +7,4 @@ List password policies
 Check burndown chart
 Summarize adoption metrics
 Update test matrix
+Summarize key takeaways
