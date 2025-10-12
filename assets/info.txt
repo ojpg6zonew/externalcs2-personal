@@ -2,3 +2,4 @@ Record load test data
 Draft pseudonymization plan
 Update proof-of-concept
 Check clickthrough rate
+Summarize validation data
