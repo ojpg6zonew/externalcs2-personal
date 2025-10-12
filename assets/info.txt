@@ -5,3 +5,4 @@ Document key decisions
 List rate limit configs
 Note jurisdiction issues
 Update incident timeline
+Check customs docs
