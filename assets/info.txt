@@ -1,13 +1,1 @@
-Summarize top requests
-Review performance budgets
-Update changelog with details
-Record HR initiatives
-Write outcome summary
-Draft exploration notes
-Update partner map
-Summarize responsive fixes
-Record retention schedule
-Capture UI feedback
-Record import duties
-Review WAF settings
-Update P&L sheet
+Brainstorm feature ideas
