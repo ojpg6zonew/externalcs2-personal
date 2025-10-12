@@ -1,2 +1,1 @@
-Check burndown chart
-Capture article topics
+Summarize top requests
