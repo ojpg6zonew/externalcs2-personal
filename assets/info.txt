@@ -3,3 +3,4 @@ Update P&L sheet
 Record gradual rollout
 Document key decisions
 List rate limit configs
+Note jurisdiction issues
