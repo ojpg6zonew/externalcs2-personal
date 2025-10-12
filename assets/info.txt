@@ -2,3 +2,4 @@ Summarize rollback drills
 Plan deployment strategy
 Note jurisdiction issues
 Track library updates
+Draft SSO integration
