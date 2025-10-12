@@ -13,3 +13,4 @@ Draft SSO integration
 Research best practices
 Log regression issues
 Prepare presentation slides
+Draft training slides
