@@ -10,3 +10,4 @@ Draft registrar tasks
 Update mentoring plan
 Record labeling guide
 Draft QA strategy
+Record CCPA checks
