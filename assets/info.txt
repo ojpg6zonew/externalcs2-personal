@@ -16,3 +16,4 @@ Summarize litigation notes
 Simplify configuration
 Capture moodboard items
 Record benchmark outcomes
+Draft retro notes
