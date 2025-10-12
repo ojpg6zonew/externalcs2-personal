@@ -22,3 +22,4 @@ Record validation scores
 Record CCPA checks
 Note firewall configs
 Check breaking changes
+Check API gateway
