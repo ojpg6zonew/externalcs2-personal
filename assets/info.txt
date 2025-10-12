@@ -12,3 +12,4 @@ Record labeling guide
 Draft QA strategy
 Record CCPA checks
 Summarize market trends
+Update redundancy notes
