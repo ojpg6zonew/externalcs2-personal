@@ -32,3 +32,4 @@ Summarize launch steps
 List legal holds
 Summarize ROC data
 Summarize bug triage
+Update redundancy notes
