@@ -28,3 +28,4 @@ Note training needs
 Record steering notes
 Draft roadmap alignment
 Draft onboarding steps
+Summarize launch steps
