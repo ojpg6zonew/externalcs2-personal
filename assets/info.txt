@@ -1,8 +1,1 @@
-Note cluster issues
-List shipping costs
-Simplify configuration
-Add fallback options
-Note blocker list
-Check breaking changes
-Update threat model
-Outline documentation gaps
+Record procurement steps
