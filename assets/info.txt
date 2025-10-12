@@ -3,3 +3,4 @@ Summarize contract renewals
 Note jurisdiction issues
 Record feedback cycle
 Check dependencies for updates
+List cluster configs
