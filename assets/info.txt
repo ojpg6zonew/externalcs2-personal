@@ -17,3 +17,4 @@ Note innovation backlog
 Record cache purge steps
 Note provider options
 Note encryption methods
+Check API gateway
