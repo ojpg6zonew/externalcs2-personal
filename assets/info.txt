@@ -9,3 +9,4 @@ Summarize responsive fixes
 Record retention schedule
 Capture UI feedback
 Record import duties
+Review WAF settings
