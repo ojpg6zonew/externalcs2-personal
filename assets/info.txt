@@ -10,3 +10,4 @@ Draft escalation doc
 Draft cloud budget
 Record benchmark outcomes
 Recheck boundary cases
+List booth designs
