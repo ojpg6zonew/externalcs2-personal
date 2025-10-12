@@ -4,3 +4,4 @@ Update changelog with details
 Record HR initiatives
 Write outcome summary
 Draft exploration notes
+Update partner map
