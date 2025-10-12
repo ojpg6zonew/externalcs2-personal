@@ -2,3 +2,4 @@ Review pull requests
 Summarize contract renewals
 Note jurisdiction issues
 Record feedback cycle
+Check dependencies for updates
