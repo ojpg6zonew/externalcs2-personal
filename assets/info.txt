@@ -12,3 +12,4 @@ Sketch new interface ideas
 Draft SSO integration
 Research best practices
 Log regression issues
+Prepare presentation slides
