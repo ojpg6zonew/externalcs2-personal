@@ -7,3 +7,4 @@ Draft exploration notes
 Update partner map
 Summarize responsive fixes
 Record retention schedule
+Capture UI feedback
