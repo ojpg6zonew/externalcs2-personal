@@ -1,1 +1,2 @@
 Prepare status email
+Verify API endpoints
