@@ -1,13 +1,1 @@
-Record load test data
-Draft pseudonymization plan
-Update proof-of-concept
-Check clickthrough rate
-Summarize validation data
-Draft forum summary
-Note cluster issues
-Create new test cases
-Note sprint outcome
-Record automation scripts
-Evaluate automation options
-Draft onboarding checklist
-Summarize key takeaways
+Prepare case studies
