@@ -14,3 +14,4 @@ Record blue-green notes
 Update changelog with details
 Summarize litigation notes
 Simplify configuration
+Capture moodboard items
