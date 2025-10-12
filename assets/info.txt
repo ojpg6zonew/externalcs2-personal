@@ -4,3 +4,4 @@ Check backup status
 Update release notes
 Note DPA clauses
 Log strategic initiatives
+Draft sales strategy
