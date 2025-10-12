@@ -1,3 +1,4 @@
 Note cluster issues
 List shipping costs
 Simplify configuration
+Add fallback options
