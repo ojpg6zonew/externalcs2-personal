@@ -1,16 +1,1 @@
-Brainstorm feature ideas
-Update P&L sheet
-Record gradual rollout
-Document key decisions
-List rate limit configs
-Note jurisdiction issues
-Update incident timeline
-Check customs docs
-Draft onboarding steps
-Update style guide
-Sketch new interface ideas
-Draft SSO integration
-Research best practices
-Log regression issues
-Prepare presentation slides
-Draft training slides
+Update AB split logs
