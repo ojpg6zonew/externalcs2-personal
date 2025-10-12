@@ -5,3 +5,4 @@ Record feedback cycle
 Check dependencies for updates
 List cluster configs
 Draft packaging guide
+Brainstorm feature ideas
