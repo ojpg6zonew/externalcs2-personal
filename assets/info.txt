@@ -6,3 +6,4 @@ Write outcome summary
 Draft exploration notes
 Update partner map
 Summarize responsive fixes
+Record retention schedule
