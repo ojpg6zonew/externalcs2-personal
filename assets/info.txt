@@ -3,3 +3,4 @@ List shipping costs
 Simplify configuration
 Add fallback options
 Note blocker list
+Check breaking changes
