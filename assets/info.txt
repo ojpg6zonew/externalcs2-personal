@@ -1,4 +1,1 @@
-Draft loyalty program
-Check anomaly alerts
-List cluster configs
-Update AUC results
+Note cluster issues
