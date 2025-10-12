@@ -1,1 +1,2 @@
 Validate new assumptions
+Note identity checks
