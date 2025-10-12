@@ -1,1 +1,2 @@
 Check burndown chart
+Capture article topics
