@@ -12,3 +12,4 @@ Review revenue data
 Summarize warehouse logs
 Record license info
 Record arbitration steps
+Sketch new interface ideas
