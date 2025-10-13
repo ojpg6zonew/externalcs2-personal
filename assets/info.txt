@@ -3,3 +3,4 @@ Plan resource allocation
 Check anomaly alerts
 Update P&L sheet
 List pending approvals
+Record compliance status
