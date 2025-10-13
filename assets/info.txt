@@ -4,3 +4,4 @@ List rate limit configs
 Check ISO documents
 Update session rules
 Prepare presentation slides
+Note alignment checks
