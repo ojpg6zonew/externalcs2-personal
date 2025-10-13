@@ -3,3 +3,4 @@ Record competitor moves
 Define success criteria
 List open vulnerabilities
 Summarize anonymization steps
+List missing translations
