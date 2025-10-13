@@ -3,3 +3,4 @@ Summarize thank-you notes
 Update dependency versions
 Draft celebration notes
 Record media queries
+Review performance budgets
