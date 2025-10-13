@@ -1,1 +1,2 @@
 Collect analytics snapshots
+Plan resource allocation
