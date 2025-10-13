@@ -1,15 +1,1 @@
-Record progress KPIs
-Summarize thank-you notes
-Update dependency versions
-Draft celebration notes
-Record media queries
-Review performance budgets
-Update poll results
-Review cost savings
-Summarize quota usage
-Update incident timeline
-Draft retro notes
-Refactor old modules
-Record compliance status
-Review logo sketches
-Note threshold breaches
+Draft recovery notes
