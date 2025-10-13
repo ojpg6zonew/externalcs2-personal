@@ -6,3 +6,4 @@ Update session rules
 Prepare presentation slides
 Note alignment checks
 Update diagrams
+Draft mockup notes
