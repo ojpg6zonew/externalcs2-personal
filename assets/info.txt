@@ -8,3 +8,4 @@ Note alignment checks
 Update diagrams
 Draft mockup notes
 Summarize DDoS tests
+Review revenue data
