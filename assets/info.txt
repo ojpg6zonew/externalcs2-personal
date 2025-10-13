@@ -5,3 +5,4 @@ List open vulnerabilities
 Summarize anonymization steps
 List missing translations
 Add more documentation notes
+Note configuration changes
