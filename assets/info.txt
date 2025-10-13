@@ -1,7 +1,1 @@
-Draft ensemble plan
-Summarize velocity trend
-Adjust retry logic
-Summarize deployment logs
-Note improvement ideas
-Draft roadmap alignment
-Record media queries
+Note decision log
