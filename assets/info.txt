@@ -1,13 +1,1 @@
-Note decision log
-Record competitor moves
-Define success criteria
-List open vulnerabilities
-Summarize anonymization steps
-List missing translations
-Add more documentation notes
-Note configuration changes
-Summarize quota usage
-Note reorder points
-Reevaluate requirements
-Record CCPA checks
-Record progress KPIs
+Collect analytics snapshots
