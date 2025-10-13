@@ -8,3 +8,4 @@ Add more documentation notes
 Note configuration changes
 Summarize quota usage
 Note reorder points
+Reevaluate requirements
