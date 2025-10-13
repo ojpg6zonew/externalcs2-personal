@@ -16,3 +16,4 @@ Sketch new interface ideas
 Note improvement ideas
 Record user stories
 Note cross-browser tests
+Note provider options
