@@ -2,3 +2,4 @@ Draft recovery notes
 Draft playbook updates
 Summarize market trends
 Audit project structure
+Summarize SIEM setup
