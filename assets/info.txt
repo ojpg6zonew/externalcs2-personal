@@ -1,2 +1,3 @@
 Record progress KPIs
 Summarize thank-you notes
+Update dependency versions
