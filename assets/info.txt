@@ -10,3 +10,4 @@ Draft mockup notes
 Summarize DDoS tests
 Review revenue data
 Summarize warehouse logs
+Record license info
