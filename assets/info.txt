@@ -6,3 +6,4 @@ List pending approvals
 Record compliance status
 Write summary report
 Update pager duty notes
+Capture article topics
