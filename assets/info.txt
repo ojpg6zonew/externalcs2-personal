@@ -10,3 +10,4 @@ Summarize quota usage
 Note reorder points
 Reevaluate requirements
 Record CCPA checks
+Record progress KPIs
