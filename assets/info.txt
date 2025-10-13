@@ -12,3 +12,4 @@ Draft retro notes
 Refactor old modules
 Record compliance status
 Review logo sketches
+Note threshold breaches
