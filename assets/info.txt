@@ -1,2 +1,3 @@
 Collect analytics snapshots
 Plan resource allocation
+Check anomaly alerts
