@@ -1,2 +1,3 @@
 Note decision log
 Record competitor moves
+Define success criteria
