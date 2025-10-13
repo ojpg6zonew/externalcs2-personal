@@ -1,5 +1,1 @@
-Record interview notes
-Capture UI feedback
-Note overfit warning
-Record gradual rollout
-Investigate performance bottleneck
+Review billing items
