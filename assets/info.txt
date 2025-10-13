@@ -17,3 +17,4 @@ Note improvement ideas
 Record user stories
 Note cross-browser tests
 Note provider options
+Note DPA clauses
