@@ -5,3 +5,4 @@ List domain records
 Note provider options
 List domain records
 Update collaboration doc
+Enable Gzip/Brotli compression for all text assets
